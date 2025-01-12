@@ -21,4 +21,3 @@ npx expo start
 - Node.js
 - Expo CLI
 - Expo Go app for testing on physical devices
-```

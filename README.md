@@ -1,4 +1,3 @@
-```markdown ```
 # NutriSync
 
 NutriSync is a mobile application prototype built with Expo that provides personalized diet recommendations using machine learning techniques.

@@ -1,9 +1,9 @@
 # NutriSync
 
-NutriSync is a mobile application prototype built with Expo that provides personalized diet recommendations using machine learning techniques.
+NutriSync is a mobile application prototype built with Expo that provides personalized diet recommendations based on location using machine learning techniques.
 
 ## Design
-View the complete UI/UX design on [Figma](https://www.figma.com/design/DAELeo3LQZjqKmPVlc74KN/Nutrisync?node-id=0-1&p=f&t=50UDTDUgOY1PPbW2-0)
+View the ongoing UI/UX design on [Figma](https://www.figma.com/design/DAELeo3LQZjqKmPVlc74KN/Nutrisync?node-id=0-1&p=f&t=50UDTDUgOY1PPbW2-0)
 
 ## Setup
 
